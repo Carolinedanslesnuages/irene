@@ -1,6 +1,6 @@
 {
   "type": "extension",
-  "dsfr": false,
+  "edition": "studio",
   "personnaliser": [
     "PROJET.md",
     "README.md",
